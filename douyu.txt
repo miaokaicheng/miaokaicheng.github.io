@@ -62,4 +62,10 @@ Wu哥音乐,http://epg.112114.xyz/douyu/8667755
 斗鱼棋牌3,http://epg.112114.xyz/douyu/4369877
 斗鱼收藏,http://epg.112114.xyz/douyu/9812765
 邵氏影院,https://openhls-tct.douyucdn2.cn/dyliveflv1/4246519rs5QiOQE5.m3u8
+斗鱼2,http://epg.112114.xyz/douyu/315457 
+斗鱼17,http://epg.112114.xyz/douyu/747764 
+斗鱼38,http://epg.112114.xyz/douyu/96577 
+斗鱼47,http://epg.112114.xyz/douyu/4505431 
+斗鱼58,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
+斗鱼59,https://txmov2.a.kwimgs.com/upic/2021/11/15/11/BMjAyMTExMTUxMTEyNDVfMjUzNzUyNTEyOF82MDkwNTM3MzY3NF8wXzM=_b_Bb1c8157f61cfbf1736be442040b93134.mp4?tag=1-1637124583-std-1-qav3oagqzv-824966656f766966&clientCacheKey=3xpd4vwzhdekbgy_b.mp4&tt=b&di=529d11df&bp=12681
 
