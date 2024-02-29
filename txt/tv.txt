@@ -23,8 +23,9 @@ CCTV-17农业农村,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 crtv,http://europa-crtvg.flumotion.com/playlist.m3u8
 
 重温经典,#genre#
-重温经典1,http://tv.dlwmkj.com/php2021/bfy.php?id=636
-重温经典频道1,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=636
+重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 
 地方卫士,#genre#
 晋中综合,http://jzdb.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
@@ -41,7 +42,7 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 
-📡江苏频道,#genre#
+江苏频道,#genre#
 [江苏]淮阴综合频道,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8?zjiangsd
 [江苏]南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
 [江苏]南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
@@ -113,7 +114,7 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 [江苏]姜堰新闻综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8?zjiangsd
 [江苏]镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 
-📡浙江频道,#genre#
+浙江频道,#genre#
 [浙江]余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 遂昌综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
@@ -153,7 +154,7 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 [浙江]海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 [浙江]绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
-📡山东频道,#genre#
+山东频道,#genre#
 枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8?shandd
 枣庄教育,http://stream.zztvzd.com/2/sd/live.m3u8?shandd
 枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8?shandd
@@ -161,7 +162,7 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd
 济宁图文,http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8?shandd
 
-📡四川频道,#genre#
+四川频道,#genre#
 渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 江油,http://dcpull.sctvcloud.com:80/live/56ce76ab01881000f9f7f6c700000000/playlist.m3u8
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8#http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel114103/playlist.m3u8#http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel114103/playlist.m3u8?zsicd
@@ -257,7 +258,7 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 达州新闻,http://tv.drs.dzxw.net:80/channellive/xwzhpd-dz1.flv
 
-📡安徽频道,#genre#
+安徽频道,#genre#
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd#http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
@@ -269,7 +270,7 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 肥西新闻,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5.flv
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 
-📡河南频道,#genre#
+河南频道,#genre#
 [河南]焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
 [河南]焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
 [河南]焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend
@@ -321,14 +322,14 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
 
-📡福建频道,#genre#
+福建频道,#genre#
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
 龙岩公共,http://live.lytv.net.cn/ggpd/sd/live.m3u8
 龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
 
-📡河北频道,#genre#
+河北频道,#genre#
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 [河北]鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
 [河北]鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
@@ -342,7 +343,7 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 [河北]昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
 [河北]昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 
-📡湖南频道,#genre#
+湖南频道,#genre#
 湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
 湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
@@ -362,7 +363,7 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
 湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 
-📡湖北频道,#genre#
+湖北频道,#genre#
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 [湖北]江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
@@ -371,7 +372,7 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 [湖北]潜江乡村,http://hbqjdb.chinashadt.com:2035/live/4.stream/playlist.m3u8
 [湖北]麻城综合,http://119.36.30.199:8888/mctv1.m3u8
 
-📡广东频道,#genre#
+广东频道,#genre#
 GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳卫视,http://222.240.82.92:9901/tsfile/live/0126_1.m3u8
@@ -381,8 +382,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 梅州综合,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
 梅州公共,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
 
-
-📡广西频道,#genre#
+广西频道,#genre#
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
 桂林新闻综合,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
@@ -406,7 +406,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 桂林新闻,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 广西贺州,http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
 
-📡云南频道,#genre#
+云南频道,#genre#
 文山州新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
 西双版纳综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
 西双版纳公共,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8?zyund
@@ -420,13 +420,13 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 绥江综合,http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
 贡山综合,http://livebroadcast.ccwb.cn/live/w1609121671179943.m3u8?zyund
 
-📡贵州频道,#genre#
+贵州频道,#genre#
 松新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd
 七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 道真新闻综合,http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
 松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 
-📡山西频道,#genre#
+山西频道,#genre#
 晋城新闻,http://live.jinnews.com.cn/xwzh/sd/live.m3u8?zshanxd
 晋城公共,http://live.jinnews.com.cn/ggpd/sd/live.m3u8?zshanxd
 运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
@@ -456,7 +456,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 晋中公共频道,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 运城公共,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 
-📡重庆频道,#genre#
+重庆频道,#genre#
 [重庆]大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
 [重庆]铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 [重庆]州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd
@@ -468,7 +468,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 [重庆]北碚综合,http://222.178.181.121:12034/beibei01.m3u8?zzhongqd
 [重庆]江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 
-📡黑龙江频道,#genre#
+黑龙江频道,#genre#
 [黑龙江]黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
 黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8?zheild
 黑龙江公共农业,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8?zheild
@@ -486,7 +486,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 [内蒙古]玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 [内蒙古]兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
 
-📡吉林频道,#genre#
+吉林频道,#genre#
 [吉林]延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
 [吉林]延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 [吉林]延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
@@ -511,7 +511,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 [吉林]通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 [吉林]汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 
-📡青海频道,#genre#
+青海频道,#genre#
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8#http://stream.qhbtv.com/qhsh/sd/live.m3u8#http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933#http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
 青海都市,http://stream.qhbtv.com/qhds/playlist.m3u8#http://stream.qhbtv.com/qhds/sd/live.m3u8#http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
@@ -770,6 +770,73 @@ CCTV2024跨年春晚,https://cloudvideo.thepaper.cn/video/06abcb2019ce4231abdcef
 2024湖南卫视芒果TV元宵喜乐会,https://yzzy.play-cdn21.com/20240224/64_5e78e7e0/index.m3u8
 2024年中央广播电视总台元宵晚会,https://yzzy1.play-cdn20.com/20240224/17584_e254af43/index.m3u8
 2024山东卫视元宵开学礼,https://yzzy.play-cdn21.com/20240224/63_43ba5d05/index.m3u8
+1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+1984年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+1985年,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+1986年,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+1987年,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+1988年,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+1989年,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+1991年,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+1992年,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hls15.m3u8
+1993年,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+1994年,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+1995年,https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+1996年,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+1997年,https://txmov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+1998年,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hls15.m3u8
+1999年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+2000年,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+2001年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+2002年,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+2003年,https://txmov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+2004年,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+2005年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+2006年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+2007年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+2008年,https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+2009年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+2010年,https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+2011年,https://txmov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+2013年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+2014年,https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+2015年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+2017年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+2018年,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+2019年,https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+2020年,https://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+2021年,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+2022年,https://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+1983年,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
+1984年,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+1985年,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+1986年,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hls15.m3u8
+1987年,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+1987年,http://50069.njc.svp.tencent-cloud.com/0bc3fuaaiaaavuaibgr5f5rfalodaqwqabaa.f10003.mp4
+1988年,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+1989年,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+1991年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hls15.m3u8
+1993年,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hls15.m3u8
+1994年,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hls15.m3u8
+1995年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hls15.m3u8
+1997年,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hls15.m3u8
+1999年,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hls15.m3u8
+2000年,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hls15.m3u8
+2001年,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hls15.m3u8
+2002年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hls15.m3u8
+2004年,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hls15.m3u8
+2005年,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hls15.m3u8
+2006年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hls15.m3u8
+2007年,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hls15.m3u8
+2008年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hls15.m3u8
+2009年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hls15.m3u8
+2014年,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hls15.m3u8
+2019年,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hls15.m3u8
+2020年,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hls15.m3u8
+2020年,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+2021年,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hls15.m3u8
 
 福建酒店源,#genre#
 CCTV1,http://117.27.190.42:9901/tsfile/live/23232_1.m3u8?key=txiptv&playlive=1&authid=0
