@@ -1,4 +1,6 @@
 电影,#genre#
+烈日灼人1,https://ikcdn01.ikzybf.com/20221009/wZ7DU5Fm/2000kb/hls/index.m3u8
+烈日灼人2,https://v.cdnlz17.com/20240104/89675_c174b270/2000k/hls/index.m3u8
 破战2024,https://v.cdnlz12.com/20240220/11660_702d7e15/2000k/hls/index.m3u8
 暴走财神2024,https://tscdn.hyz1.top/20240214/DvvKfU4s/2000kb/hls//index.m3u8
 熊出没·逆转时空(TC)2024,https://vip.ffzy-online6.com/20240212/26146_e107685a/2000k/hls/index.m3u8
