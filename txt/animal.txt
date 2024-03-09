@@ -347,6 +347,19 @@
 南美野生世界3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/68caf99e50bc496fb478b0ed8f4b421a/1200.m3u8
 奇异世界的动物们2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef3ee1bb8ff946a9adf07486709883eb/1200.m3u8
 奇异世界的动物们3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/efa51c5e3af04df89e68606d75333080/1200.m3u8
+野性的魅力1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f83cd6f217c48e8abb8064f430bc93a/1200.m3u8
+野性的魅力2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/091f7f7dfce34c0d83bcd93c0b58dc07/1200.m3u8
+野性的召唤1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ce41c579b0c84ada982b79073028d116/1200.m3u8
+野性的召唤2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/24514b1197ea46b9a443121f5e19f535/1200.m3u8
+野性的召唤3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9a6b5b4568574867933091059ff57680/1200.m3u8
+野性美洲(五),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/58a370a91cbf49858c18e6d72007d12e/1200.m3u8
+野性美洲1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1a92d87e2c74de7a799141e5e89eb3b/1200.m3u8
+野性美洲2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e902191f2524bc198a656db71791080/1200.m3u8
+野性美洲3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1156d95bcf554d0e9df1688e8a6fd55d/1200.m3u8
+野性美洲3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4cb2ce54e7e047a99c772d3874f4c916/1200.m3u8
+野性美洲4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5dcd2b749aae4e7e973271f124e83fb1/1200.m3u8
+野性生存秘籍1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7c8a682e6c5749b19d375b0c562f4c87/1200.m3u8
+野性生存秘籍2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b95862f403d5404f87114f6a651119e6/1200.m3u8
 
 旱季,#genre#
 旱季极限生存战,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1b750e952abb452c9f77d44f8d8bae17/1200.m3u8

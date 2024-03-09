@@ -516,27 +516,7 @@
 喜乐会,https://v10.dious.cc/20240226/NQgV5Wpf/index.m3u8
 
 
-绝代双骄1988(国语)
-1,https://cdn.wls911.com:777/fDv7gmdY/index.m3u8
-2,https://cdn.wls911.com:777/CwH52cWE/index.m3u8
-3,https://cdn.wls911.com:777/LrDJaobz/index.m3u8
-4,https://cdn.wls911.com:777/oIyrRNbQ/index.m3u8
-5,https://cdn.wls911.com:777/KVN2J7B1/index.m3u8
-6,https://cdn.wls911.com:777/UGN3wJup/index.m3u8
-7,https://cdn.wls911.com:777/FV1Qj2it/index.m3u8
-8,https://cdn.wls911.com:777/ilWckaNB/index.m3u8
-9,https://cdn.wls911.com:777/vXSOH3UT/index.m3u8
-10,https://cdn.wls911.com:777/TZ3xGacF/index.m3u8
-11,https://cdn.wls911.com:777/V2LKsj3y/index.m3u8
-12,https://cdn.wls911.com:777/8nPvgwDr/index.m3u8
-13,https://cdn.wls911.com:777/2Ao1wirM/index.m3u8
-14,https://cdn.wls911.com:777/ShqTUM8a/index.m3u8
-15,https://cdn.wls911.com:777/poMOWk0Y/index.m3u8
-16,https://cdn.wls911.com:777/gXIKGaZ9/index.m3u8
-17,https://cdn.wls911.com:777/APFoLD47/index.m3u8
-18,https://cdn.wls911.com:777/Lel3uYkz/index.m3u8
-19,https://cdn.wls911.com:777/yTWNEtk2/index.m3u8
-20,https://cdn.wls911.com:777/TJdu9m2x/index.m3u8
+
 
 
 

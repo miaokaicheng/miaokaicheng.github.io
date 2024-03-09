@@ -16,16 +16,12 @@ CCTV13高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 CCTV14高清,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV15高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-
 CCTV-4中文国际,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4.m3u8
 CCTV-6电影,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv6.m3u8#http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv6.m3u8#http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv6.m3u8
 CCTV-17农业农村,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv17.m3u8
-crtv,http://europa-crtvg.flumotion.com/playlist.m3u8
 
 重温经典,#genre#
-重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=636
-重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=636#http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 
 地方卫士,#genre#
 晋中综合,http://jzdb.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
