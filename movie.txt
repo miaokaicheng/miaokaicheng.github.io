@@ -1,4 +1,6 @@
 电影,#genre#
+《小明星大跟班》1,https://vip.lz-cdn12.com/20220622/238_fab5e1e2/1200k/hls/index.m3u8
+《小明星大跟班》2,https://vip.lz-cdn11.com/20220621/8830_c93b9697/1000k/hls/index.m3u8
 破战2024,https://v.cdnlz12.com/20240220/11660_702d7e15/2000k/hls/index.m3u8#https://yzzy1.play-cdn20.com/20240216/17014_96791511/2000k/hls/mixed.m3u8#https://yzzy1.play-cdn20.com/20240216/17014_96791511/index.m3u8#https://ukzy.ukubf3.com/20240216/MYLiIuPk/2000kb/hls/index.m3u8#https://ukzy.ukubf3.com/20240216/MYLiIuPk/index.m3u8
 暴走财神2024,https://tscdn.hyz1.top/20240214/DvvKfU4s/2000kb/hls//index.m3u8
 外星+人2[韩],https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8#https://v.cdnlz12.com/20240215/11573_4cb789fb/index.m3u8#https://yzzy1.play-cdn1.com/20240215/16550_5cc27412/2000k/hls/index.m3u8#https://yzzy1.play-cdn1.com/20240215/16550_5cc27412/index.m3u8
@@ -370,6 +372,12 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 黄飞鸿之男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
 黄飞鸿之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
 义胆雄心,http://jsmov2.a.yximgs.com/bs3/video-hls/5237686462055775486_hlsb.m3u8
+亚历山大大帝：封神之路1,https://v10.dious.cc/20240131/AU9m54ch/2000kb/hls/index.m3u8
+亚历山大大帝：封神之路2,https://v10.dious.cc/20240131/SBhwoktv/2000kb/hls/index.m3u8
+亚历山大大帝：封神之路3,https://v10.dious.cc/20240131/hMSMIPwO/2000kb/hls/index.m3u8
+亚历山大大帝：封神之路4,https://v10.dious.cc/20240131/gN3SJEFx/2000kb/hls/index.m3u8
+亚历山大大帝：封神之路5,https://v10.dious.cc/20240131/8ruDzvNf/2000kb/hls/index.m3u8
+亚历山大大帝：封神之路6,https://v10.dious.cc/20240131/sSAfSwvY/2000kb/hls/index.m3u8
 
 怀旧老电影,#genre#
 勐垅沙,https://txmov2.a.kwimgs.com/bs3/video-hls/5234308767245156019_hlsb.m3u8
