@@ -515,14 +515,84 @@
 番外04,https://v10.dious.cc/20240226/KQai4DRp/index.m3u8
 喜乐会,https://v10.dious.cc/20240226/NQgV5Wpf/index.m3u8
 
+亮剑,#genre#
+第01集,https://v4.dious.cc/20220509/fMUpKlnE/index.m3u8
+第02集,https://v4.dious.cc/20220509/fFyUMGsi/index.m3u8
+第03集,https://v4.dious.cc/20220509/80INaaTb/index.m3u8
+第04集,https://v4.dious.cc/20220509/361ELGz0/index.m3u8
+第05集,https://v4.dious.cc/20220509/6gYZWCBt/index.m3u8
+第06集,https://v4.dious.cc/20220509/YONUW51f/index.m3u8
+第07集,https://v4.dious.cc/20220509/YUcLJLqz/index.m3u8
+第08集,https://v4.dious.cc/20220509/29GQLBqC/index.m3u8
+第09集,https://v4.dious.cc/20220509/qJNW1DtP/index.m3u8
+第10集,https://v4.dious.cc/20220509/rXZQbtN7/index.m3u8
+第11集,https://v4.dious.cc/20220509/TWxHNJmt/index.m3u8
+第12集,https://v4.dious.cc/20220509/sCuvZp6C/index.m3u8
+第13集,https://v4.dious.cc/20220509/znuUQzTY/index.m3u8
+第14集,https://v4.dious.cc/20220509/csfbd7yh/index.m3u8
+第15集,https://v4.dious.cc/20220509/RRYc1rMP/index.m3u8
+第16集,https://v4.dious.cc/20220509/3UA62u69/index.m3u8
+第17集,https://v4.dious.cc/20220509/epkXp05r/index.m3u8
+第18集,https://v4.dious.cc/20220509/AuZNKhQ7/index.m3u8
+第19集,https://v4.dious.cc/20220509/vw37aHKy/index.m3u8
+第20集,https://v4.dious.cc/20220509/h2kFRqRn/index.m3u8
+第21集,https://v4.dious.cc/20220509/M4BEDP1F/index.m3u8
+第22集,https://v4.dious.cc/20220509/TxCfQvzl/index.m3u8
+第23集,https://v4.dious.cc/20220508/0ZWB08ZV/index.m3u8
+第24集,https://v4.dious.cc/20220508/RKkudapv/index.m3u8
+第25集,https://v4.dious.cc/20220508/XKbM7FUp/index.m3u8
+第26集,https://v4.dious.cc/20220508/x2mq26va/index.m3u8
 
 
+侦察英雄,#genre#
+第1集https://pptv.shanshanku.com/202401/09/CiNRM5jhPU3/video/900k_0X480_64k_25/hls/index.m3u8
+第2集https://pptv.shanshanku.com/202401/09/WZbi4Bz75g3/video/900k_0X480_64k_25/hls/index.m3u8
+第3集https://pptv.shanshanku.com/202401/10/BhdB2E4VMu3/video/900k_0X480_64k_25/hls/index.m3u8
+第4集https://pptv.shanshanku.com/202401/10/5CCWbVkUxC3/video/900k_0X480_64k_25/hls/index.m3u8
+第5集https://pptv.shanshanku.com/202401/11/Tp6b2J2aVD3/video/900k_0X480_64k_25/hls/index.m3u8
+第6集https://pptv.shanshanku.com/202401/11/HN6yKaUJ2J3/video/900k_0X480_64k_25/hls/index.m3u8
+第7集https://pptv.shanshanku.com/202401/12/pnZ0GRPNDb3/video/900k_0X480_64k_25/hls/index.m3u8
+第8集https://pptv.shanshanku.com/202401/13/6Nbxa1W8vE3/video/900k_0X480_64k_25/hls/index.m3u8
+第9集https://pptv.shanshanku.com/202401/14/7br3hijKnY3/video/900k_0X480_64k_25/hls/index.m3u8
+第10集https://pptv.shanshanku.com/202401/14/zWa7gzcUs33/video/900k_0X480_64k_25/hls/index.m3u8
+第11集https://pptv.shanshanku.com/202401/15/LtT5z4Mpde3/video/900k_0X480_64k_25/hls/index.m3u8
+第12集https://pptv.shanshanku.com/202401/15/XQwQXYw90C3/video/900k_0X480_64k_25/hls/index.m3u8
+第12集https://pptv.shanshanku.com/202401/16/4ySGiicRy43/video/900k_0X480_64k_25/hls/index.m3u8
+第13集https://pptv.shanshanku.com/202401/16/4ySGiicRy43/video/900k_0X480_64k_25/hls/index.m3u8
+第14集https://pptv.shanshanku.com/202401/16/M3qzZ9pZmc3/video/900k_0X480_64k_25/hls/index.m3u8
+第15集https://pptv.shanshanku.com/202401/16/M3qzZ9pZmc3/video/900k_0X480_64k_25/hls/index.m3u8
+第16集https://pptv.shanshanku.com/202401/17/k2gX5w9MmU3/video/900k_0X480_64k_25/hls/index.m3u8
+第17集https://pptv.shanshanku.com/202401/18/3WM56ShCUZ3/video/900k_0X480_64k_25/hls/index.m3u8
+第18集https://pptv.shanshanku.com/202401/18/kFz5QyypGT3/video/900k_0X480_64k_25/hls/index.m3u8
+第19集https://v10.dious.cc/20240119/MIGsiELc/2000kb/hls/index.m3u8
+第20集https://v10.dious.cc/20240120/OcyAu656/2000kb/hls/index.m3u8
+第21集https://v10.dious.cc/20240121/eVc95bn3/2000kb/hls/index.m3u8
+第22集https://v10.dious.cc/20240121/7JE7TXBn/2000kb/hls/index.m3u8
+第23集https://v10.dious.cc/20240122/GOY4KuSu/2000kb/hls/index.m3u8
+第24集https://v10.dious.cc/20240122/4egRw1qO/2000kb/hls/index.m3u8
+第25集https://v10.dious.cc/20240123/CkzVvoiY/2000kb/hls/index.m3u8
+第26集https://v10.dious.cc/20240123/4iQZjSSP/2000kb/hls/index.m3u8
+第27集https://v10.dious.cc/20240124/X6lMLaO0/2000kb/hls/index.m3u8
+第28集https://v10.dious.cc/20240124/2wFaplx3/2000kb/hls/index.m3u8
+第29集https://v10.dious.cc/20240125/AfklK09u/2000kb/hls/index.m3u8
+第30集https://v10.dious.cc/20240125/1hVolvYd/2000kb/hls/index.m3u8
+第31集https://v10.dious.cc/20240126/h6ZrtLHV/2000kb/hls/index.m3u8
 
 
-
-
-
-
+乡村爱情16,#genre#
+第01集,https://v10.dious.cc/20240202/CPvEOZDP/index.m3u8
+第02集,https://v10.dious.cc/20240202/R33oL37A/index.m3u8
+第03集,https://v10.dious.cc/20240202/qeROxol3/index.m3u8
+第04集,https://v10.dious.cc/20240202/m69JeTiu/index.m3u8
+第05集,https://v10.dious.cc/20240202/8uhKxnwV/index.m3u8
+第06集,https://v10.dious.cc/20240202/d4mwbAUf/index.m3u8
+第07集,https://v10.dious.cc/20240202/gncvgshF/index.m3u8
+第08集,https://v10.dious.cc/20240203/U8gs9Awi/index.m3u8
+第09集,https://v10.dious.cc/20240203/JIa4hIGi/index.m3u8
+第10集,https://v10.dious.cc/20240204/KCzN8uhN/index.m3u8
+第11集,https://v10.dious.cc/20240204/QRTJmRoJ/index.m3u8
+第12集,https://v10.dious.cc/20240205/WHeqZok8/index.m3u8
+第13集,https://v10.dious.cc/20240205/WxxAefYA/index.m3u8
 
 
 
