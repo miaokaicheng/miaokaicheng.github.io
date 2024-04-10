@@ -1,4 +1,4 @@
-字母A
+
 阿杜,#genre#
 阿杜、江蕙 - 梦中的情话,https://cfss.cc/api/kg/1B515CEA3D84075E2FE4BA96CC89B32B.mp4
 阿杜、江蕙 - 梦中的情话 - KTV版,https://cfss.cc/api/kg/A44239D3EE507FA3AEB18E15065AFA40.mp4
@@ -73,7 +73,7 @@
 安东阳-爱在秋天的童话,http://em.21dtv.com/songs/60087679.mkv
 安东阳-爱你忘了我自己,http://em.21dtv.com/songs/60087678.mkv
 
-字母B
+
 Beyond,#genre#
 Beyond-恭贺新禧,https://vd3.bdstatic.com/mda-pa23851hsyd2x3gw/720p/h264/1672712287694753715/mda-pa23851hsyd2x3gw.mp4
 Beyond 一无所有,https://vd2.bdstatic.com/mda-pb69fhx7hqjst7z0/720p/h264/1675752122847627386/mda-pb69fhx7hqjst7z0.mp4
@@ -158,7 +158,7 @@ ys - 半阳 - 一曲相思 (DJ黎小霸版),https://cfss.cc/api/kg/2539D96CDCC7C
 本兮 - 战放 - KTV版,https://cfss.cc/api/kg/EC0D4E044BD6184E2B56D30C124B9034.mp4
 本兮、阿悄 - 无限速 - 现场版,https://cfss.cc/api/kg/4461B63E5467ACC527857F4CC9ECA3A1.mp4
 
-字母C
+
 蔡国庆,#genre#
 陈红、蔡国庆、张迈、江涛 - 常回家看看 - 1999央视春节联欢晚会,https://cfss.cc/api/kg/64E912F7FFE2AC25943FA4D5054A2BA1.mp4
 综艺一手抓 - 苏宁直播嘉年华好事开场！蔡国庆、曹扬 、关晓彤、贾乃亮、李一桐、刘婧、乔欣、王子异、悦悦、张歆艺《好事开场》,https://cfss.cc/api/kg/72B421B5A8669AC26520A4ADBD9DF2C7.mp4
@@ -1106,7 +1106,7 @@ DjVing+程响-不再联系(DJ版Mix),http://em.21dtv.com/songs/50000127.mkv
 崔健-快让我在雪地上撒点儿野,http://em.21dtv.com/songs/60025817.mkv
 崔健-新长征路上的摇滚(演唱会),http://em.21dtv.com/songs/60050989.mkv
 
-字母D
+
 大张伟,#genre#
 综艺一手抓 - 大张伟、李紫婷嗨唱组曲《哞哞福气到》！串烧《WOW》、《阳光彩虹小白马》、《我是一颗跳跳糖》东方卫视春晚现场,https://cfss.cc/api/kg/20526CD58E2344BCF73EA0BF34F12603.mp4
 大张伟、杨乃文 - 静止 - 2016蒙面唱将猜猜猜第一季第十一期现场,https://cfss.cc/api/kg/2BFD1787AF54AE4B23BDD7F19888AFDB.mp4
@@ -1410,7 +1410,7 @@ Allby Mysli-迪玛希,http://em.21dtv.com/songs/60134279.mkv
 动力火车-再见我的爱人,http://em.21dtv.com/songs/60056901.mkv
 动力火车-最后一种快乐,http://em.21dtv.com/songs/60060303.mkv
 
-字母E
+
 Ella,#genre#
 苏打绿、Ella陈嘉桦 - 你被写在我的歌里 - 当我们一起走过2012台北站,https://cfss.cc/api/kg/42015E11732DDE7249D2A26E128D6427.mp4
 Ella陈嘉桦 - 信爱成瘾,https://cfss.cc/api/kg/7CD2BCB7112AFB7AC4241D1BC051CCF1.mp4
@@ -1428,7 +1428,7 @@ Rella-Pa Pa Pa,http://em.21dtv.com/songs/60122412.mkv
 苏打绿+EELLA-你被写在我的歌里,http://em.21dtv.com/songs/60064616.mkv
 Stellar-Vibrato,http://em.21dtv.com/songs/60113191.mkv
 
-字母F
+
 范玮琪,#genre#
 范玮琪-我们的纪念日,http://vodcdn.video.taobao.com/oss/taobao-ugc/d38a89c6b5ab41b4ab80423741fbe8d6/1466066405/video.m3u8.m3u8
 范玮琪-可不可以不勇敢,http://vodcdn.video.taobao.com/oss/taobao-ugc/281fad47bf534456b587495a8edf0d7a/1530774215/video.m3u8.m3u8
@@ -1602,7 +1602,7 @@ Stellar-Vibrato,http://em.21dtv.com/songs/60113191.mkv
 pro、傅梦彤 - 雨赶走云彩 - 现场版,https://cfss.cc/api/kg/7B2E5FE05AA6F8F372E747BFE24FC5C8.mp4
 娱乐小Jio - 潮汐Dj   傅梦彤   3D环绕?｜ 是耀温顺｜remix 【提到我好想你】,https://cfss.cc/api/kg/4FBFF153C3D0702C172FAB603890CC40.mp4
 
-字母G
+
 高胜美,#genre#
 高胜美-你走你的路,http://em.21dtv.com/songs/60032577.mkv
 高胜美 - 千年等一回 - 《新白娘子传奇》电视剧主题曲,https://cfss.cc/api/kg/D3ECDEA90E234CFA76380209BA353179.mp4
@@ -1916,7 +1916,7 @@ LDⅤe!-古巨基,http://em.21dtv.com/songs/60130586.mkv
 关喆-如果分开我也爱你,http://em.21dtv.com/songs/60117562.mkv
 关喆-如果分开我也爱你,http://em.21dtv.com/songs/60077405.mkv
 
-字母H
+
 海伦,#genre#
 海伦 Ⅰ 桥边姑娘,https://vdse.bdstatic.com/8ae4235344c61f9c05ccf3716c84e823.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fcce92f8d8c53b543a981ee2a1a20ab1b07c6da20e01f4f5aaf9d82e5be5e6587#https://vdse.bdstatic.com/8ae4235344c61f9c05ccf3716c84e823.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fcce92f8d8c53b543a981ee2a1a20ab1b07c6da20e01f4f5aaf9d82e5be5e6587
 Alina - 海伦《游山恋》优美的古风旋律，绝对值得你单曲循环一整天,https://cfss.cc/api/kg/F114E5C89F4F08A4A6464FEDFEA0E8CF.mp4
@@ -2588,9 +2588,9 @@ LIGHT+火箭少女101,http://qukufile2.qianqian.com/data2/video/691cd7852e987548
 王俊凯、谢霆锋、王北车、张恩岱、刘郡格、火箭少女101、丁当、林俊杰、傅如乔 - 《酷狗TOP500热门精选》第六十六期,https://cfss.cc/api/kg/9594D32AF11F2BAF4BB05C6B093696F8.mp4
 毒液前来-火箭少女101,http://qukufile2.qianqian.com/data2/video/be217297601b7cb006f95f5f871d4053/608669409/608669409.mp4
 
-字母I
 
-字母J
+
+
 甲子慧,#genre#
 甜甜蜜蜜-甲子慧,http://em.21dtv.com/songs/60117061.mkv
 陈淑萍、甲子慧、蔡秋凤 - 金包银 黄金夜总会 现场版,https://cfss.cc/api/kg/D3C15127174AB4C3CC1F0B4F13F4A203.mp4
@@ -2848,9 +2848,9 @@ GAI周延、吉克隽逸、天赐的声音 - 问风 - 天赐的声音第三季 �
 吉克隽逸-冬天里的一把火,http://em.21dtv.com/songs/60069362.mkv
 吉克隽逸-晨曦,http://em.21dtv.com/songs/60125272.mkv
 
-字母K
 
-字母L
+
+
 蓝琪儿,#genre#
 火火的爱.蓝琪儿,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzsXE4gUorZf38wc.mp4
 Wu远江 - 蓝琪儿 - 不浪漫的罪 (DJ何鹏版) 想陪你走完千山和万水 谁知天公偏偏不作美,https://cfss.cc/api/kg/C5F2A0E71DE3475B561F9E0312587A89.mp4
@@ -4342,7 +4342,7 @@ DJViper+龙梅子-爱就要爆灯(Mix),http://em.21dtv.com/songs/50000132.mkv
 吕方-从未如此深爱过,http://em.21dtv.com/songs/60013584.mkv
 吕方-从未如此深爱过(演唱会),http://em.21dtv.com/songs/60013583.mkv
 
-字母M
+
 马健涛,#genre#
 马健涛 Ⅰ 杀阡陌,https://vdse.bdstatic.com/17014878933308f5eb81b2a9d98783d8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd93a993d573ee3bcc23a02ca043066cf5106c87ccfff05e150791a903b70eb6b#https://vdse.bdstatic.com/17014878933308f5eb81b2a9d98783d8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fd93a993d573ee3bcc23a02ca043066cf5106c87ccfff05e150791a903b70eb6b
 马健涛-爱情也虚假,http://em.21dtv.com/songs/60137067.mkv
@@ -4754,7 +4754,7 @@ ABC日日搬 - #上热门 慕容晓晓出名歌曲，句句走心，唱出好多
 慕容晓晓-收不回的漂流瓶,http://em.21dtv.com/songs/60062774.mkv
 慕容晓晓-再爱我好不好,http://em.21dtv.com/songs/60087093.mkv
 
-字母N
+
 南征北战,#genre#
 回忆-南征北战,http://em.21dtv.com/songs/60118412.mkv
 南征北战NZBZ、米线 - 哈尼宝贝 - 现场版,https://cfss.cc/api/kg/C169294F359DE230B3FB46E004BF34BA.mp4
@@ -4788,9 +4788,9 @@ ABC日日搬 - #上热门 慕容晓晓出名歌曲，句句走心，唱出好多
 南征北战-飞跃吧(HD),http://em.21dtv.com/songs/60130140.mkv
 南征北战+米线乐团-原来,http://em.21dtv.com/songs/60106666.mkv
 
-字母O
 
-字母P
+
+
 潘玮柏,#genre#
 许慧欣、潘玮柏 - 特别来宾 - KTV版,https://cfss.cc/api/kg/A3A79304D719B3E73FEB584D47DADB3E.mp4
 潘玮柏、关晓彤 - 漫动作,https://cfss.cc/api/kg/D099E860E4DD10A08C1A55093ABBE3F5.mp4
@@ -4895,7 +4895,7 @@ F.I.R.飞儿乐团、彭佳慧 - 心之火 - 《花千骨》电视剧片头曲TV
 朴树-为你盛开的夕阳,http://em.21dtv.com/songs/60091294.mkv
 朴树-五彩缤纷的日子,http://em.21dtv.com/songs/60047631.mkv
 
-字母Q
+
 齐秦,#genre#
 望春风+雨夜花-齐秦,http://em.21dtv.com/songs/60118229.mkv
 自己的心情自己感觉-齐秦,http://em.21dtv.com/songs/60118230.mkv
@@ -5367,7 +5367,7 @@ TVB群星-We Are The Only One,http://em.21dtv.com/songs/60103046.mkv
 群星-有爱就有一切,http://em.21dtv.com/songs/60055091.mkv
 群星-有爱就有可能,http://em.21dtv.com/songs/60055089.mkv
 
-字母R
+
 任静,#genre#
 付笛声、任静 - 知心爱人 - 2017围炉音乐会第十五期现场,https://cfss.cc/api/kg/C0A834BFC6C1B1B29094F115E5E8E3A4.mp4
 付笛声、任静 - 知心爱人 - 2011 歌声飘过30年百首金曲演唱会,https://cfss.cc/api/kg/82F40DC78F6715D80A43B3BD317CF9BD.mp4
@@ -5619,7 +5619,7 @@ TVB群星-We Are The Only One,http://em.21dtv.com/songs/60103046.mkv
 容祖儿-想着你的感觉,http://em.21dtv.com/songs/60119439.mkv
 张信哲+容祖儿-想着你的感觉(演唱会),http://em.21dtv.com/songs/60049298.mkv
 
-字母S
+
 snh48袁一琦,#genre#
 夏曰真心话-SNH48,http://em.21dtv.com/songs/60117488.mkv
 初恋蝴蝶-SNH48,http://em.21dtv.com/songs/60117487.mkv
@@ -6133,7 +6133,7 @@ CoCo李玟、孙楠、Lil Ghost小鬼、中国梦之声·我们的歌 - 你怎�
 苏勒亚其其格-痴痴的把你等待,http://em.21dtv.com/songs/60086492.mkv
 苏勒亚其其格-主要是看气质,http://em.21dtv.com/songs/60117156.mkv
 
-字母T
+
 TWINS,#genre#
 TWINS-恋爱大过天(演唱会),http://em.21dtv.com/songs/60026998.mkv
 易超、唐艺、刘瑞琦、Twins、王力军、中国最强音 - 野百合也有春天 - 现场版,https://cfss.cc/api/kg/F88530CF4E6EE5D53EC0E42BDCD6DFE5.mp4
@@ -6534,11 +6534,11 @@ TWINS-星星月亮太阳,http://em.21dtv.com/songs/60051124.mkv
 童安格-别把我的心带走,http://em.21dtv.com/songs/60010567.mkv
 童安格-一生中的第一(无原唱),http://em.21dtv.com/songs/60053634.mkv
 
-字母U
 
-字母V
 
-字母W
+
+
+
 王力宏,#genre#
 卢巧音、王力宏 - 好心分手,https://cfss.cc/api/kg/11E6834FCAB8B0A288698EFC9CF7999C.mp4
 王力宏、卢巧音 - 好心分手 - KTV版,https://cfss.cc/api/kg/05AC1BB85D955C39DD36F68D0809C9ED.mp4
@@ -7600,7 +7600,7 @@ PSYKHON+吴莫愁-TAKE IT EASY,http://em.21dtv.com/songs/60145926.mkv
 乌兰托娅-永远的香巴拉,http://em.21dtv.com/songs/60071450.mkv
 乌兰托娅-月光下的毡房,http://em.21dtv.com/songs/60065429.mkv
 
-字母X
+
 西海情歌,#genre#
 手心里的温柔-西海情歌-披着羊皮,https://vdse.bdstatic.com//2f53687e421524efba9ba2b528f7bd12.mp4
 披着羊皮的狼-西海情歌-冲动,https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
@@ -8214,7 +8214,7 @@ Aman-许志安,http://em.21dtv.com/songs/60118040.mkv
 薛之谦-我知道你都知道,http://em.21dtv.com/songs/60069997.mkv
 薛之谦-其实,http://em.21dtv.com/songs/60129591.mkv
 
-字母Y
+
 姚晨,#genre#
 姚晨、佟丽娅、王丽坤、关晓彤 - 如愿 - 第34届金鸡奖闭幕式,https://cfss.cc/api/kg/9B359227899F9FE6BC7B5860CC9CCF2E.mp4
 小花 - 果然彪悍是会遗传的！姚晨祖孙三人脾气都“爆”，狂到我心坎里了#摇滚狂花,https://cfss.cc/api/kg/57E169EDC29A91E5D4BEA95CBFEB67A2.mp4
@@ -8783,7 +8783,7 @@ MC光光、法老、艾热AIR、派克特、ICE、Lil Ghost小鬼、袁娅维TIA
 袁娅维-开往春天的地铁,http://em.21dtv.com/songs/60135718.mkv
 袁娅维-Amazing,http://em.21dtv.com/songs/60110503.mkv
 
-字母Z
+
 赵传,#genre#
 莎莉-赵传,http://em.21dtv.com/songs/60117258.mkv
 赵传、刘沁 - 努力活着,https://cfss.cc/api/kg/A1121A8C7B494BC3CFC4750831A34C21.mp4
